@@ -1,0 +1,2131 @@
+fileFormatVersion: 2
+guid: 6871b4376c326764b8de0adbde7a8865
+timeCreated: 1477996161
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zero_idle_0
+    21300002: zero_idle_1
+    21300004: zero_idle_2
+    21300006: zero_idle_3
+    21300008: zero_electric_sword_0
+    21300010: zero_electric_sword_1
+    21300012: zero_electric_sword_2
+    21300014: zero_electric_sword_3
+    21300016: zero_electric_sword_4
+    21300018: zero_electric_sword_5
+    21300020: zero_electric_sword_6
+    21300022: zero_electric_sword_8
+    21300024: zero_main_12
+    21300026: zero_main_13
+    21300028: zero_walk_0
+    21300030: zero_walk_1
+    21300032: zero_walk_2
+    21300034: zero_walk_3
+    21300036: zero_walk_4
+    21300038: zero_walk_5
+    21300040: zero_walk_6
+    21300042: zero_walk_7
+    21300044: zero_walk_8
+    21300046: zero_walk_9
+    21300048: zero_walk_10
+    21300050: zero_main_25
+    21300052: zero_main_26
+    21300054: zero_main_27
+    21300056: zero_main_28
+    21300058: zero_main_29
+    21300060: zero_main_30
+    21300062: zero_main_31
+    21300064: zero_main_32
+    21300066: zero_main_33
+    21300068: zero_main_34
+    21300070: zero_main_35
+    21300072: zero_main_36
+    21300074: zero_main_37
+    21300076: zero_jump_up_0
+    21300078: zero_jump_up_1
+    21300080: zero_jump_up_2
+    21300082: zero_jump_up_3
+    21300084: zero_main_42
+    21300086: zero_main_43
+    21300088: zero_main_44
+    21300090: zero_fall_0
+    21300092: zero_fall_1
+    21300094: zero_fall_2
+    21300096: zero_fall_land_0
+    21300098: zero_main_49
+    21300100: zero_main_50
+    21300102: zero_main_51
+    21300104: zero_main_52
+    21300106: zero_main_53
+    21300108: zero_main_54
+    21300110: zero_main_55
+    21300112: zero_main_56
+    21300114: zero_main_57
+    21300116: zero_main_58
+    21300118: zero_main_59
+    21300120: zero_main_60
+    21300122: zero_main_61
+    21300124: zero_main_62
+    21300126: zero_main_63
+    21300128: zero_main_64
+    21300130: zero_main_65
+    21300132: zero_main_66
+    21300134: zero_main_67
+    21300136: zero_main_68
+    21300138: zero_main_69
+    21300140: zero_main_70
+    21300142: zero_main_71
+    21300144: zero_main_72
+    21300146: zero_main_73
+    21300148: zero_main_74
+    21300150: zero_main_75
+    21300152: zero_main_76
+    21300154: zero_main_77
+    21300156: zero_main_78
+    21300158: zero_main_79
+    21300160: zero_main_80
+    21300162: zero_main_81
+    21300164: zero_main_82
+    21300166: zero_main_83
+    21300168: zero_main_84
+    21300170: zero_main_85
+    21300172: zero_main_86
+    21300174: zero_main_87
+    21300176: zero_main_88
+    21300178: zero_main_89
+    21300180: zero_main_90
+    21300182: zero_main_91
+    21300184: zero_main_92
+    21300186: zero_main_93
+    21300188: zero_main_94
+    21300190: zero_main_95
+    21300192: zero_main_96
+    21300194: zero_main_97
+    21300196: zero_main_98
+    21300198: zero_main_99
+    21300200: zero_main_100
+    21300202: zero_main_101
+    21300204: zero_main_102
+    21300206: zero_main_103
+    21300208: zero_main_104
+    21300210: zero_main_105
+    21300212: zero_main_106
+    21300214: zero_main_107
+    21300216: zero_main_108
+    21300218: zero_main_109
+    21300220: zero_main_110
+    21300222: zero_main_111
+    21300224: zero_main_112
+    21300226: zero_main_113
+    21300228: zero_main_114
+    21300230: zero_main_115
+    21300232: zero_main_116
+    21300234: zero_main_117
+    21300236: zero_main_118
+    21300238: zero_main_119
+    21300240: zero_main_120
+    21300242: zero_main_121
+    21300244: zero_main_122
+    21300246: zero_main_123
+    21300248: zero_main_124
+    21300250: zero_main_125
+    21300252: zero_main_126
+    21300254: zero_main_127
+    21300256: zero_main_128
+    21300258: zero_main_129
+    21300260: zero_main_130
+    21300262: zero_main_131
+    21300264: zero_main_132
+    21300266: zero_main_133
+    21300268: zero_main_134
+    21300270: zero_main_135
+    21300272: zero_main_136
+    21300274: zero_main_137
+    21300276: zero_main_138
+    21300278: zero_main_139
+    21300280: zero_main_140
+    21300282: zero_main_141
+    21300284: zero_main_142
+    21300286: zero_main_143
+    21300288: zero_main_144
+    21300290: zero_main_145
+    21300292: zero_main_146
+    21300294: zero_main_147
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zero_idle_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4012
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_idle_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4012
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_idle_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 4012
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_idle_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4012
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_electric_sword_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3900
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_electric_sword_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3900
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_electric_sword_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3900
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_electric_sword_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3900
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_electric_sword_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 3900
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_electric_sword_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3900
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_electric_sword_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3901
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_electric_sword_8
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 3901
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_12
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 3901
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3901
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3756
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3756
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3756
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3756
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3756
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 3756
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 3756
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3756
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 3756
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_9
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 3756
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 3756
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3644
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3644
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3644
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3644
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3644
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_30
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3643
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_31
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3640
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_32
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3639
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_33
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 3639
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_34
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3640
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_35
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 3641
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_36
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3643
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_37
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 3643
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_jump_up_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3500
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_jump_up_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3500
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_jump_up_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3500
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_jump_up_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3500
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3372
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3372
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_44
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3370
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_fall_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3244
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_fall_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3244
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_fall_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3244
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_fall_land_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3244
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_49
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2988
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2988
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2985
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_52
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2986
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_53
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2986
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_54
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2986
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_55
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2986
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2732
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2732
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_58
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2732
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2476
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_60
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2476
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2220
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_62
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2220
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_63
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2220
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_64
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2220
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_65
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2220
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_66
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2220
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_67
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2220
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2092
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1964
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1964
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1964
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_72
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1964
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_73
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1836
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_74
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1836
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_75
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1836
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_76
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1836
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_77
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1708
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1708
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1708
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1708
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_81
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1708
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_82
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1708
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_83
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1708
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_84
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1708
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_85
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1708
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_86
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1708
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_87
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1708
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_88
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1708
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_89
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1708
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_90
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1580
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_91
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1580
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_92
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1580
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_93
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1580
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_94
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1452
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1452
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1452
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_97
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1452
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_98
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1324
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_99
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1324
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1324
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_101
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1324
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_102
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1324
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_103
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1324
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_104
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1324
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_105
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1324
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_106
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1324
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_107
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1324
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_108
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1324
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_109
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1324
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_110
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1324
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_111
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1196
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_112
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1192
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_113
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1197
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_114
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1196
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_115
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1068
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_116
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1068
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1068
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_118
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1068
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_119
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1068
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_120
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1068
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 940
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_122
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 940
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_123
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 940
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_124
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 940
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_125
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 940
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_126
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 940
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_127
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 940
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_128
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 940
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 812
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_130
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 812
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_131
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 812
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_132
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 812
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_133
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 825
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_134
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 812
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_135
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 812
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_136
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 812
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_137
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 812
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_138
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 684
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_139
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 684
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_140
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 684
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_141
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 684
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_142
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 680
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_143
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 680
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_144
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 680
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_145
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 680
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_146
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 684
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_main_147
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 684
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
